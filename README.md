@@ -8,8 +8,8 @@ Estou aqui para iniciar meu aprendizado, a tecnologia  me fascina  :computer::ip
 
 Será um grande desafio, pois sou da geração analógica  :joy::joy::joy:
 
-Estou com  muita expecta  :exclamation: Espero ampliar  meu conhecimento e compartilhar ideias com meus colegas do curso de formação. 
-Vamos lá galera :facepunch:
+Estou com  muita expectativa :exclamation: Espero ampliar  meu conhecimento e compartilhar ideias com meus colegas do curso de formação. 
+Vamos lá galera :facepunch: 
 
 ##  Frase que gosto
 
@@ -17,9 +17,7 @@ Vamos lá galera :facepunch:
 :art:
 
 <h1 align="center"> FAÇA SEMPRE O SEU MELHOR </h1>
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+<h1 align="center"> :ok_woman: :sparkling_heart: :smiley: </h1>
 <!---
 denisetiemitomita/denisetiemitomita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
